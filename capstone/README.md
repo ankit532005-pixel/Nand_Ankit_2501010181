@@ -2,9 +2,9 @@
 **Nand to Tetris – I (ETCCNT301)**  
 School of Engineering & Technology, K.R. Mangalam University  
 
-**Student Name:** Shivam Kumar Roy  
-**Roll Number:** 2501010138  
-**Personal Number K:** 38  
+**Student Name:** Ankit 
+**Roll Number:** 2501010181  
+**Personal Number K:** 81 
 
 ---
 
